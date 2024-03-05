@@ -1,0 +1,14 @@
+.protocoles {
+    display: flex;
+    width: 100%;
+    .protocolesContainer {
+      flex: 6;
+      .protocoleButton{
+        display: grid;
+        row-gap: 3;
+        column-gap: 3;
+                   padding: 10px;
+            gap: 10px;
+      }
+    }
+  }
